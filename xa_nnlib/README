@@ -20,17 +20,19 @@
 #
 
 ======================================================================
-Cadence HiFi1 Neural Network (NN) Library
+Cadence HiFi 1 Neural Network (NN) Library
 ======================================================================
 
 ======================================================================
 Revision History
 ======================================================================
+=====================================================================
 
-Version 0.9.0 API 1.0: July 22, 2021
+Version 1.0.0 API 1.0: August 31, 2021
 
-+ Beta Release of HiFi 1 NN Library
++ GA Release of HiFi 1 NN Library
 + Kernels are tuned for best performance on HiFi 1 core
-+ Tested using RI.7 tools, xt-clang/xt-clang++ compiler
++ Tested using RI.7 tools, xt-clang/xt-clang++ compiler 
+  and reference cores (AE_HiFi1_LE5_FP_XC/AE_HiFi1_LE5_XC with 64 MB RAM and 16 MB ROM)
 
 ----------------------------------------------------------------------
